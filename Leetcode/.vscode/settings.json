@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.lvt": "latex",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "queue": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
